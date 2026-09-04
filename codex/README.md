@@ -1,7 +1,7 @@
 ## 🎨 Ghostty 配置
 **位置**：nano ~/.bashrc
 
-'''conf
+```conf
 # Clash proxy config
 PROXY_HTTP="http://127.0.0.1:7897"
 PROXY_SOCKS="socks5://127.0.0.1:7897"
@@ -47,4 +47,4 @@ codex_proxy() {
 # 新终端默认关闭代理
 unset http_proxy https_proxy all_proxy
 unset HTTP_PROXY HTTPS_PROXY ALL_PROXY
-'''
+```
