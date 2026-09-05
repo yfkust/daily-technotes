@@ -1,4 +1,4 @@
-## 🎨 Ghostty 配置
+## 🎨 codex 配置
 **位置**：nano ~/.bashrc
 
 ```conf
